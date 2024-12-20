@@ -1,0 +1,95 @@
+[33mcommit 6e9db0e0456a14d163ed5efd14414fb9c4a331d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Deivisnan Bispo <Bispodeivisnan@gmail.com>
+Date:   Fri Dec 20 12:05:03 2024 -0300
+
+    corrigir o problema de não aparecer a imagem do banco de dados na interface do frontEnd
+
+[33mcommit 1de79dbf7ba2740d4edcc8590470d463dda30011[m
+Author: Deivisnan Bispo <Bispodeivisnan@gmail.com>
+Date:   Sun Dec 15 18:33:22 2024 -0300
+
+     Atualizações no banco de dados e como as imagens são inseridas,ainda está em desenvolvimento mas telas de login para o adm foram criadas e agora podem ser usadas para enviar item do cardapio para o banco de dados
+
+[33mcommit 285bdf334e20233326321b4e2bc86cde28036ae4[m
+Author: Deivisnan Bispo <Bispodeivisnan@gmail.com>
+Date:   Sun Dec 8 11:14:05 2024 -0300
+
+    Implementei o sistema de login  vinculado com o banco de dados ou seja agora  tem um cadastro de usuário que joga as informações para o banco de dados  e o login que verifica  se está realmente correto
+
+[33mcommit 9c9ec7d99e1c6191368d0dad534214d940321628[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Fri Dec 6 18:00:55 2024 -0300
+
+    Crie uma pagina de login e organizei as rotas, não está totalmente desemvolvido, está parcialmente
+
+[33mcommit f6e68fa4260bc32481edcf26484ab08ca585f69c[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Thu Dec 5 17:52:19 2024 -0300
+
+    estou tentando conectar com o bando de dados mongo DB  ainda não está finalizado
+
+[33mcommit b8250b58236dedabeb5b64848fd987a2c238d9f6[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Wed Dec 4 15:53:19 2024 -0300
+
+    foi mdificado o botão + do pop up do carrinho
+
+[33mcommit edc8eaa40ace275da753e343b204ce3c3340eeaf[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Tue Dec 3 17:28:43 2024 -0300
+
+    Atualizei configurações no carrinho apliquei a função para reduzir quantidades diratamente do carrinho e ajeitei um problema na estilização do css implementei também um botão flutuante que serve como indicador de quantidade
+
+[33mcommit 1466ef554b974458ce90fc41df8768948b7240a8[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Mon Dec 2 18:14:23 2024 -0300
+
+    implementei o botão trash e fiz umas atualizações na vizualização do pdf quando é gerado
+
+[33mcommit 5a0599639176a7dd734ff5ac17b4f2d7f44d74f0[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Mon Dec 2 17:24:39 2024 -0300
+
+    modifiquei o botão fechar dentro do pop up do carrinho e corrigir o problema de adcionar itens no cardapio  e repetir os itens, agora ele adciona um indice mutiplicador ao lado
+
+[33mcommit de2ae08bd7d27bd96b116d78c8107fde50ae35bf[m
+Author: Deivisnan Bispo <Bispodeivisnan@gmail.com>
+Date:   Sat Nov 23 22:56:44 2024 -0300
+
+     corrigir o problema de não ter o botão para enviar a mensagem para o whatsap, no entanto ainda não conseguir atingir o objetivo que é enviar o documento ou link via whatsap assim que clica no link
+
+[33mcommit c0f295d07b31203f14f8cd2feb98a671ee970c9a[m
+Author: Deivisnan Bispo <Bispodeivisnan@gmail.com>
+Date:   Sat Nov 23 19:58:27 2024 -0300
+
+     adicionei funcionalidades como campo de endereço, adcionei alertas  para quando o usário tenta baixar o pdf sem  preencher os campos  configurei o botão enviar pedido que estava passando mesmo sem a pessoa não ter nada dentro do carrinho
+
+[33mcommit 24d7f994ae6569d1b411276cb5a1835444b2a3ba[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Fri Nov 22 18:04:22 2024 -0300
+
+    implementei a função para baixar o pdf ou imagens  dos pedidos
+
+[33mcommit 90b859ead4d6d9fb7834cb84f5bff0cedc576774[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Thu Nov 21 17:41:12 2024 -0300
+
+    usando o local storage
+
+[33mcommit fb46b4a4dcc9e178e5fe0a630764f9af87db73fc[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Thu Nov 21 17:33:03 2024 -0300
+
+    atualização criação do carrinho de compras
+
+[33mcommit a707a2bff05656368cd7cb2278db08cec90f01bf[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Tue Nov 19 17:55:10 2024 -0300
+
+    primeiro comite do projeto
+
+[33mcommit 37c510d9c70a0129bac2850d329337c9ffac238e[m
+Author: Deivisnan da Silva Bispo <bispodeivisnan@gmail.com>
+Date:   Thu Nov 7 16:26:35 2024 -0300
+
+    init
